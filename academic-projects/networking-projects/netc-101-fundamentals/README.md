@@ -20,4 +20,4 @@ Week: 11  Routing and protocols.
 Week: 12  VLAN’S and Switches
 Week: 13  Trunking
 Week: 14	Advanced infrastructure design/L3 Switches – Test 3 Assigned
-*Week: 15	Test 3* 
+*Week: 15	Test 3*
