@@ -1,0 +1,20 @@
+empty_list = []
+numbers = "123456789"
+converted_list = list(numbers)
+movies = ["Gladiator", "Lord of the Rings", "Star Wars", "Inception", "The Dark Knight"]
+print(empty_list)
+print(converted_list)
+print(movies)
+print(type(empty_list))
+print(type(converted_list))
+print(type(movies))
+print(len(empty_list))
+print(len(converted_list))
+print(len(movies))
+print(movies[0])
+print(movies[4])
+print(movies[2])
+print(converted_list[0])
+print(converted_list[5])
+print(converted_list[-1])
+print(converted_list[-3])

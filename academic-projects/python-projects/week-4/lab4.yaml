@@ -1,0 +1,15 @@
+#This is a YAML file
+person:
+  name: 'Aragorn'
+  age: 87
+  employed: true
+  jobs: 
+    - 'King of Gondor'
+    - 'Ranger from the North'
+    - 'Member of the Fellowship of the Ring'
+  favorites:
+    candy: 'White Chocolate'
+    food: 'Second Breakfast'
+    city: 'Rivendell'
+    movie: 'The Return of the King'
+      
