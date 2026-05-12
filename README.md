@@ -8,7 +8,7 @@ Network engineering and cybersecurity professional with a decade of hands-on IT 
 - TryHackMe.com user since August 2023, [top 1% of users](https://tryhackme.com/p/jpavel94/)
 
 ## Certifications
-- CompTIA Security+ Certified CE, [licensed](https://cp.certmetrics.com/comptia/en/public/verify/credential/KN8J7RKYPMREQHWC) August 2023
+- CompTIA Security+ Certified CE, [certified](https://cp.certmetrics.com/comptia/en/public/verify/credential/KN8J7RKYPMREQHWC) August 2023
 - Google Cybersecurity Certificate, September 2023
 
 ## About the Repo
