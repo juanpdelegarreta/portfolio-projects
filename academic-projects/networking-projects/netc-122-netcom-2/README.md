@@ -1,4 +1,4 @@
-# NETC-122
+# NETC-122 Network Communications 2
 ## Course Description
 A continuation of NETC 121. Topics include: access control lists, routing protocols, spanning tree, VLANs and network security, and network address translation.
 

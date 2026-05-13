@@ -1,4 +1,4 @@
-# NETC-280
+# NETC-280 IT Documentation
 ## Course Description
 A course on documentation of IT systems focusing on general regulatory compliance requirements. Students use Microsoft Visio for laboratory activities.
 

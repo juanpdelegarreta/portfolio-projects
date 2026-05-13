@@ -1,12 +1,12 @@
-# NETC-230 Network Security Design
+# NETC-240 Emerging Topics in Computer Network Engineering Technology
 ## Course Description
-A course on developing security to protect business systems. Topics include: design and testing of various layered network security software and hardware.
+A course on current industry needs related to Computer Network Engineering Technology. Topics include: AI, MS 365 Administration, cloud computing, and Linux.
 
 ## Assignments Overview
-Labs are instructional walkthroughs of setting up networks based on weekly topic. Lab reports contain screenshots, lab questions, and research assignments. Lab files and Lab sims are Packet Tracer assignments.
+Labs explore the .
 
 ## Weekly Syllabus
-- 	Week 1 – Security Policies, Threats, Cryptography, Wireless
+- 	Week 1 – Cloud Computing - Azure and AWS
 - 	Week 2 – Disaster Recovery, Failover, Physical Security
 - 	Week 3 – ASA Firewalls
 - 	Week 4 – ASA and DMZ’s 

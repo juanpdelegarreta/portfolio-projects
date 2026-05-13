@@ -36,7 +36,7 @@ NETC 230 Network Security Design
 A course on developing security to protect business systems. Topics include: design and testing of various layered network security software and hardware.
 
 NETC 240 Emerging Topics in Computer Network Engineering Technology
-A course on current industry needs related to Computer Network Engineering Technology. Topics include: voice-over-internet protocol (VoIP), cloud computing, and Linux.
+A course on current industry needs related to Computer Network Engineering Technology. Topics include: AI, MS 365 Administration, cloud computing, and Linux.
 
 NETC 280 IT Documentation
 A course on documentation of IT systems focusing on general regulatory compliance requirements. Students use Microsoft Visio for laboratory activities.
