@@ -19,18 +19,18 @@ Pieces of this project lived in three different places: Google Cloud Platform fo
 The final documentation provided in this repo reflect the culmination of 14 weeks of redesign, reconfiguration, and troubleshooting. It also includes the slide deck from our final presentation.
 
 ## Weekly Schedule
-Week 1: Project charter, scope, repo, rebuild discipline
-Week 2: Logical design & Packet Tracer prototype
-Week 3: Switch base config, VLANs
-Week 4: L2 Trunking, verification
-Week 5: Inter-VLAN routing 
-Week 6: Routing Validation
-Week 7: AD, DNS, DCHP Foundations
-Week 8: Windows Server Advanced Services
-Week 9: ASA Firewall Configuration
-Week 10: ASA NAT and ACL Validation
-Week 11: Compliance Controls
-Week 12: Python Automation to Cloud
-Week 13: Disaster Recovery and Timed Rebuild Testing
-Week 14: End to End Validation and Demo
-Week 15: Presentation
+- Week 1: Project charter, scope, repo, rebuild discipline
+- Week 2: Logical design & Packet Tracer prototype
+- Week 3: Switch base config, VLANs
+- Week 4: L2 Trunking, verification
+- Week 5: Inter-VLAN routing 
+- Week 6: Routing Validation
+- Week 7: AD, DNS, DCHP Foundations
+- Week 8: Windows Server Advanced Services
+- Week 9: ASA Firewall Configuration
+- Week 10: ASA NAT and ACL Validation
+- Week 11: Compliance Controls
+- Week 12: Python Automation to Cloud
+- Week 13: Disaster Recovery and Timed Rebuild Testing
+- Week 14: End to End Validation and Demo
+- Week 15: Presentation
