@@ -1,0 +1,63 @@
+#!/bin/bash
+
+# Create main USA directory 
+mkdir USA
+
+# Create state directories
+states=(Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada NewHampshire NewJersey NewMexico NewYork NorthCarolina NorthDakota Ohio Oklahoma Oregon Pennsylvania RhodeIsland SouthCarolina SouthDakota Tennessee Texas Utah Vermont Virginia Washington WestVirginia Wisconsin Wyoming)
+
+for state in ${states[@]}; do
+  mkdir "USA/$state"
+done
+
+# Create top city files  
+touch USA/Alabama/{Birmingham,Montgomery,Mobile,Huntsville,Tuscaloosa}
+touch USA/Alaska/{Anchorage,Juneau,Fairbanks,Wasilla,Ketchikan}  
+touch USA/Arizona/{Phoenix,Tucson,Mesa,Chandler,Gilbert}
+touch USA/Arkansas/{LittleRock,FortSmith,Fayetteville,Springdale,Rogers}
+touch USA/California/{LosAngeles,SanDiego,SanJose,SanFrancisco,Fresno} 
+touch USA/Colorado/{Denver,ColoradoSprings,Aurora,FortCollins,Lakewood}
+touch USA/Connecticut/{Bridgeport,NewHaven,Hartford,Stamford,Waterbury} 
+touch USA/Delaware/{Wilmington,Dover,Newark,Bear,Middletown}
+touch USA/Florida/{Jacksonville,Miami,Tampa,Orlando,StPetersburg}
+touch USA/Georgia/{Atlanta,Augusta,Columbus,Savannah,Athens}
+touch USA/Hawaii/{Honolulu,EastHonolulu,PearlCity,Hilo,Kailua}
+touch USA/Idaho/{Boise,Meridian,Nampa,IdahoFalls,Pocatello}  
+touch USA/Illinois/{Chicago,Aurora,Rockford,Joliet,Naperville}
+touch USA/Indiana/{Indianapolis,FortWayne,Evansville,SouthBend,Carmel}  
+touch USA/Iowa/{DesMoines,CedarRapids,Davenport,SiouxCity,IowaCity} 
+touch USA/Kansas/{Wichita,OverlandPark,KansasCity,Olathe,Topeka}
+touch USA/Kentucky/{Louisville,Lexington,BowlingGreen,Owensboro,Covington}
+touch USA/Louisiana/{NewOrleans,BatonRouge,Shreveport,Lafayette,LakeCharles}   
+touch USA/Maine/{Portland,Lewiston,Bangor,SouthPortland,Auburn}
+touch USA/Maryland/{Baltimore,Columbia,Germantown,SilverSpring,Waldorf} 
+touch USA/Massachusetts/{Boston,Worcester,Springfield,Lowell,Cambridge}
+touch USA/Michigan/{Detroit,GrandRapids,Warren,SterlingHeights,Lansing}  
+touch USA/Minnesota/{Minneapolis,SaintPaul,Rochester,Duluth,Bloomington}
+touch USA/Mississippi/{Jackson,Gulfport,Southaven,Hattiesburg,Biloxi}
+touch USA/Missouri/{KansasCity,SaintLouis,Springfield,Independence,Columbia} 
+touch USA/Montana/{Billings,Missoula,GreatFalls,Bozeman,Butte}
+touch USA/Nebraska/{Omaha,Lincoln,Bellevue,GrandIsland,Kearney}  
+touch USA/Nevada/{LasVegas,Henderson,Reno,NorthLasVegas,Paradise}
+touch USA/NewHampshire/{Manchester,Nashua,Concord,Derry,Dover}    
+touch USA/NewJersey/{Newark,JerseyCity,Paterson,Elizabeth,Edison} 
+touch USA/NewMexico/{Albuquerque,LasCruces,RioRancho,SantaFe,Roswell}
+touch USA/NewYork/{NewYork,Buffalo,Rochester,Yonkers,Syracuse} 
+touch USA/NorthCarolina/{Charlotte,Raleigh,Greensboro,Durham,Winston-Salem} 
+touch USA/NorthDakota/{Fargo,Bismarck,GrandForks,Minot,WestFargo}
+touch USA/Ohio/{Columbus,Cleveland,Cincinnati,Toledo,Akron} 
+touch USA/Oklahoma/{OklahomaCity,Tulsa,Norman,BrokenArrow,Lawton}
+touch USA/Oregon/{Portland,Eugene,Salem,Gresham,Hillsboro}
+touch USA/Pennsylvania/{Philadelphia,Pittsburgh,Allentown,Erie,Reading}   
+touch USA/RhodeIsland/{Providence,Warwick,Cranston,Pawtucket,EastProvidence}  
+touch USA/SouthCarolina/{Columbia,Charleston,NorthCharleston,MountPleasant,RockHill} 
+touch USA/SouthDakota/{SiouxFalls,RapidCity,Aberdeen,Watertown,Brookings}
+touch USA/Tennessee/{Memphis,Nashville,Knoxville,Chattanooga,Clarksville}
+touch USA/Texas/{Houston,SanAntonio,Dallas,Austin,FortWorth} 
+touch USA/Utah/{SaltLakeCity,WestValleyCity,Provo,WestJordan,Orem}
+touch USA/Vermont/{Burlington,Essex,SouthBurlington,Colchester,Rutland}
+touch USA/Virginia/{VirginiaBeach,Norfolk,Chesapeake,Richmond,NewportNews} 
+touch USA/Washington/{Seattle,Spokane,Tacoma,Vancouver,Bellevue}
+touch USA/WestVirginia/{Charleston,Huntington,Parkersburg,Morgantown,Wheeling} 
+touch USA/Wisconsin/{Milwaukee,Madison,GreenBay,Kenosha,Racine}
+touch USA/Wyoming/{Cheyenne,Casper,Laramie,Gillette,RockSprings}

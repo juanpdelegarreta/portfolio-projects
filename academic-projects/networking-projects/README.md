@@ -12,7 +12,7 @@ The A.A.S. in Computer Network Engineering - Cybersecurity at Cincinnati State T
 - IT 215 Scripting
 
 ## Projects
-Much of the course work and projects from the courses are posted in their respective folders.
+Much of the course work and projects from the courses are posted in their respective folders. There is also a highlights folder which is a good broad representation of the curriculum.
 
 ## Course Descriptions
 The available course descriptions as of my graduation in May of 2026 are below. All up-to-date course descriptions are found at: 

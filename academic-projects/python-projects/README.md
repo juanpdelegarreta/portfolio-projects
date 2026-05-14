@@ -1,4 +1,4 @@
-# IT-115
+# IT-115 - IT Scripting
 ## Course Description
 A course on task automation and configuration management using Python programming language. Topics include: modifying existing Python scripts, and creating new scripts to automate common tasks.
 
